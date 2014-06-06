@@ -1,0 +1,4 @@
+ git branch -r >> see all branches on all remotes
+ git branch >> just on your local machines
+
+ 
