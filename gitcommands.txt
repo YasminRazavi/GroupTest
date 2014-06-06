@@ -1,0 +1,15 @@
+ 1. git branch -r >> see all branches on all remotes
+ 2. git branch >> just on your local machines
+
+ 3. gco -b dev origin/dev (to start following the dev branch on remote)
+ 4. git pull Origin dev to get the most recent version of dev
+ 5. make a new feature branch to work on "git branch featureX"
+ 6. make changes to your branch feature
+ 7. After changes are done, git pull Orign dev to get the most up to date version of dev
+ 8. On your feature branch type: git merge dev
+ 9. resolve conflicts
+ 10. gco dev
+ 11. git merge "featureX"
+ 12. git push origin dev
+ 13. once you ebgin working on a new feature, git pull origin dev, git branch featurenew
+ 
