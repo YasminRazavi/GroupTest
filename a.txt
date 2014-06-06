@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 yasmin made this change that shoudl make a conflict
 
 
 1. 
 
+=======
+`sara rocks hello
+>>>>>>> a08540825828c0db9b3354cafdef6b85d35db397
 

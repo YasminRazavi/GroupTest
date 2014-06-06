@@ -7,3 +7,9 @@
  6. make changes to your branch feature
  7. After changes are done, git pull Orign dev to get the most up to date version of dev
  8. On your feature branch type: git merge dev
+ 9. resolve conflicts
+ 10. gco dev
+ 11. git merge "featureX"
+ 12. git push origin dev
+ 13. once you ebgin working on a new feature, git pull origin dev, git branch featurenew
+ 
