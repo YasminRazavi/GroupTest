@@ -12,4 +12,5 @@
  11. git merge "featureX"
  12. git push origin dev
  13. once you ebgin working on a new feature, git pull origin dev, git branch featurenew
- 
+
+ +++++ THE END +++++
